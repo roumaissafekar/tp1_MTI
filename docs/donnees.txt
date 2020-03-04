@@ -1,0 +1,8 @@
+aifaoui sara Q150202 11.70 10.25 10.55 30 30 oui 
+allalou nour-el-houda Q150224 10.60 10.42 10.10 30 30 oui
+abdellaoui imaine 1633031310 7.52 10.23 9.55 10 30 non
+bouamra amira 1633039392 11.24 11.64 11.65 30 30 oui
+cherifi asma 1633025209 12.50 12.85 12.87 30 30 oui
+fekar roumaissa 1633025846 10.49 09.49 9.55 30 25 oui 
+nadji bassma 1633034091 8.10 6.52 7.22  20 18 non
+merrouche sara 1633040064 10.75 10.62 10.25 30 30 oui
